@@ -1,2 +1,2 @@
-# Master-thesis
-For Master thesis files 
+# Master-Thesis-Notes
+For Master thesis note files. 
